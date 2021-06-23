@@ -1,0 +1,499 @@
+
+
+@media all and () {}
+
+
+@media all and (min-width:1401px) {
+
+}
+
+
+@media all and (max-width:1400px) {
+
+
+
+
+
+
+}
+@media all and (max-width:1200px) {
+
+    .primary-menu ul li a {
+       padding: 0 14px;
+    }
+
+    .header-section{
+        margin-right: 10px;
+        padding-left: 10px;
+    }
+    .header-btn {
+
+        padding: 10px 20px;
+        margin-right: 20px;
+    }
+    .video-content-right h3 {
+        font-size: 47px;
+    }
+    
+}
+@media all and (max-width:1024px) {
+     
+
+    body{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .section-title h1 {
+        font-size: 53px;
+    }
+    .header-logo {
+        width: 100%;
+        text-align: center;
+    }
+    .logo img {
+        float: none;
+    }
+    .logo span {
+        position: relative;
+        top: -20px;
+    }
+    .header-button {
+        width: 30%;
+        text-align: center;
+    }
+    .header-menu.left {
+        width: 60%;
+    }
+    .primary-menu ul li a {
+        padding: 0 6px;
+    }
+    .primary-menu ul {
+        text-align: center;
+    }
+    .primary-menu ul li ul {
+        width: 124px;
+
+    }
+
+
+}
+
+
+.primary-menu span {
+    display: none;
+    }
+    
+    .mobile-checked {
+      opacity: 0;
+      visibility: hidden;
+    }
+    
+
+@media all and (max-width:850px) {
+
+    .primary-menu ul {
+        text-align: center;
+        visibility: hidden;
+        opacity: 0;
+    }
+    .header-menu.left {
+        width: 100%;
+    }
+    .primary-menu span {
+        font-size: 31px;
+         display: block;
+        color: #6278DF;
+    }
+    .header-button.left {
+        float: inherit;
+        position: absolute;
+        right: 0;
+        top: 55px;
+    }
+    .mobile-checked {
+        opacity: 0;
+        visibility: visible;
+    }
+    .header-menu.left {
+      height: 40px;
+    }
+    .primary-menu .mobile-checked:checked ~ ul {
+        opacity: 1;
+        visibility: visible;
+        background: #fff;
+        position: relative;
+        top: -11px;
+    }
+    .primary-menu ul li {
+        position: relative;
+        display: block;
+    }
+    .primary-menu ul li a {
+        font-size: 14px;
+        line-height: 24px !important;
+    }
+    .primary-menu ul {
+        text-align: left;
+        padding-left: 10px !important;
+    }
+    .primary-menu ul li ul {
+        width: 89px;
+        position: absolute;
+        left: 90px;
+        top: 0;
+        z-index: 999;
+    }
+    .primary-menu ul li ul li{
+        width: 200px !important;
+    }
+    .mobile-checked {
+        width: 40px;
+        height: 40px;
+        opacity: 0;
+        cursor: pointer;
+    }
+    .mobile-icon {
+        position: absolute;
+        top: 78px;
+        left: 16px;
+        pointer-events: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .primary-menu ul li a {
+        font-size: 15px !important;
+        line-height: 59px;
+    }
+    .primary-menu ul li a {
+        padding: 7px 1px;
+    }
+    .primary-menu ul li ul {
+        width: 92px;
+        padding: 0px 5px;
+    }
+
+    .primary-menu ul li a {
+        font-size: 14px;
+        line-height: 59px;
+    }
+
+
+
+    .header-logo {
+        width: 100%;
+        text-align: center;
+    }
+    .header-button.left {
+        float: right;
+    }
+    .header-button {
+        width: 40%;
+        text-align: center;
+    }
+    .header-menu {
+        width: 59%;
+    }
+    .primary-menu ul li a {
+
+        font-size: 16px;
+        line-height: 59px;
+    }
+    .primary-menu ul li ul {
+        width: 122px;
+
+    }
+    .header-section a {
+        display: inline-block;
+    }
+    .banner-content h2 {
+        font-size: 51px;
+        margin: 22px 0;
+    }
+    .default-btn {
+        padding: 12px 17px;
+
+    }
+    .video-left {
+        width: 100%;
+    }
+    .video-content-right {
+        width: 100%;
+    }
+    .video-content-right h3 {
+        font-size: 42px;
+        margin: 15px 0;
+        text-align: center;
+    }
+    .banner-bottom {
+        padding: 51px 0;
+    }
+    .section-title h1 {
+        font-size: 40px;
+        font-weight: 500;
+    }
+    .service-section {
+        padding: 50px 0;
+    }
+    .s-icon {
+        width: 100%;
+        float: none;
+        text-align: center;
+        min-height: 62px;
+    }
+    .s-content h3 {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+    .section-title h2 {
+        font-size: 41px;
+
+    }
+    .section-title p {
+        font-size: 20px;
+
+    }
+    .p-content {
+        padding: 5px;
+    }
+    .p-content ul li span {
+        font-size: 20px;
+        width: 18px;
+    }
+    .team-section .section-title h2 {
+        font-size: 37px;
+    }
+    .member-bio {
+        padding: 18px;
+    }
+    .member-bio p {
+   
+        font-size: 16px;
+
+    }
+    .team-section {
+        padding: 50px 0;
+    }
+    .newslatter-section {
+        padding: 50px 0;
+    }
+    .section-title.newslatter-title h2 {
+        margin-top: 23px;
+        font-size: 35px;
+    }
+    .submit-btn {
+        margin: 15px 0;
+    }
+    .blog-section {
+        padding: 10px 0;
+    }
+    .b-hading {
+        width: 100%;
+    }
+    .bt-content {
+        width: 100%;
+    }
+    .testimonial-section {
+        padding: 50px 0;
+    }
+    .t-content {
+
+        padding: 30px 7px;
+    }
+    .t-content p::before {
+        left: 8px;
+    
+    }
+    .t-user-bio h4 {
+        font-size: 14px;
+    }
+    .contact-section {
+        padding-top: 40px;
+    }
+    .content-left-map {
+        width: 100%;
+    }
+    .content-right-form {
+        width: 100%;
+    }
+    .footer {
+        margin-top: 10px;
+    }
+    .primary-menu ul li a {
+        font-size: 14px;
+        line-height: 59px;
+    }
+    .primary-menu ul li ul {
+        width: 89px;
+    }
+
+
+}
+
+
+
+
+
+
+
+@media all and (max-width:600px){
+
+
+
+
+
+    .banner-content h2 {
+        font-size: 43px;
+    }
+    .video-content-right p {
+        font-size: 17px;
+
+    }
+    .video-content-right h3 {
+        font-size: 38px;
+    }
+    .mid-content {
+        max-width: 100%;
+
+    }
+    .service-box {
+        width:48%;
+
+    }
+    .p-heading {
+        padding: 5px;
+    }
+    .pricing-table-item {
+        width: 48%;
+    }
+    .pricing-table-section {
+        padding: 20px 0;
+    }
+    .pricing-table-item.left.all {
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+    }
+    .member {
+        width: 48%;
+    }
+    .default-input {
+        width: 100%;
+   
+    }
+    .blog-title {
+        padding: 20px 0px;
+    }
+    .testimonial-items {
+        margin-top: 20px;
+    }
+    .i-item {
+        width: 48%;
+    }
+    .i-item.left.iijh {
+        width: 100%;
+        margin-top: 10px;
+        padding-top: 24px;
+    }
+    .content-right-form p {
+        font-size: 20px;
+    }
+    .service-section {
+        padding: 20px 0;
+    }
+    .services-items {
+        margin-top: 20px;
+    }
+
+    iframe {
+        height: 400px;
+    }
+
+
+
+}
+
+
+
+
+@media all and (max-width:470px){
+    .banner-content h3 {
+        font-size: 22px;
+    }
+    .banner-content h2 {
+        font-size: 34px;
+        margin: 15px 0;
+    }
+    .default-btn {
+        padding: 9px 9px;
+        margin-bottom: 15px;
+    }
+    .service-box {
+        width: 100%;
+        text-align: center;
+    }
+    .section-title h1 {
+        font-size: 33px;
+
+    }
+    .team-section .section-title h2 {
+        font-size: 33px;
+        margin-bottom: 0;
+    }
+    .pricing-table-item {
+        width: 100%;
+        text-align: left;
+    }
+    .p-heading h1 {
+        margin: 12px auto;
+        font-size: 49px;
+    }
+
+    .team-section .section-title h2 {
+        font-size: 33px;
+    }
+    .team-members.clear {
+        margin-top: 30px;
+    }
+    .member {
+        width: 100%;
+        text-align: center;
+    }
+    .blog-post-item {
+        width: 100%;
+        text-align: center;
+    }
+    .i-item {
+        width: 100%;
+    }
+    iframe {
+        height: 350px;
+    }
+    .submit-btn {
+   
+        font-size: 21px;
+        padding: 8px 42px;
+        font-weight: 600;
+    }
+
+    .footer p {
+        font-size: 14px;
+    }
+
+
+
+}
+
+
